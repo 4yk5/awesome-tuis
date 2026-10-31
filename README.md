@@ -156,6 +156,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [fx](https://github.com/antonmedv/fx) Terminal JSON viewer & processor
 - [ggc](https://github.com/bmf-san/ggc) A terminal-based Git CLI tool written in Go
 - [ghcup](https://github.com/haskell/ghcup-hs) An installer for the Haskell toolchain
+- [Ghostman](https://github.com/4yk5/Ghostman) Fast, keyboard-driven terminal API client and webhook inspector.
 - [git-crecord](https://github.com/andrewshadura/git-crecord) interactive selective commit tool
 - [git-scope](https://github.com/Bharath-code/git-scope) Terminal UI dashboard for inspecting multiple local Git repositories.
 - [git-tailor](https://github.com/jordfras/git-tailor) An interactive terminal tool for tidying up Git commits on a branch
